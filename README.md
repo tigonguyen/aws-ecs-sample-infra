@@ -1,4 +1,4 @@
-# aws-ecs-sample-infra
+# terraform-aws-ecs-sample-infra
 ## Description
 - [x] Create a network with public & private subnets
 - [x] Create a load balancer which redirects requests from port 80 to 443 and security groups
